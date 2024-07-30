@@ -21,7 +21,7 @@
     { text: 'Khiêm' },
   ];
 
-  const sequence = [0, 6, 1, 5, 4, 3, 7, 2];
+  const sequence = [0, 6, 1, 5, 4, 2, 7, 3];
 
   const size = listGift.length;
   const rotate = 360 / size;
